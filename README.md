@@ -1,16 +1,24 @@
-## Hi there 👋
+# Reinaldo Moreira — `reimorster`
 
-<!--
-**reimorster/reimorster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Civil engineer and systems developer working across native software, computational engineering, automation, and local AI infrastructure.
 
-Here are some ideas to get you started:
+I build practical tools with a preference for:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* native and local-first architectures
+* explicit data models and stable interfaces
+* C, C++, Python, Rust, Swift, and Lua
+* SQLite, FastAPI, CMake, Linux, and containers
+* engineering computation, IFC, Excel integrations, and AI tooling
+
+## Current focus
+
+* cross-platform native application engines
+* local AI inference and media workflows
+* self-hosted Linux infrastructure
+
+## Background
+
+* Civil Engineer — Universidade Federal de Goiás - 2011
+* Specialist in Systems Engineering - 2013
+* MITx MicroMasters in Finance - 2022
+* Programming since Windows 95
